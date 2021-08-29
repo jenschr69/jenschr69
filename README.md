@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenschr69
+- 👋 Hi, I’m @jenschr69 - Jens Christensen
 - 👀 I’m interested in web- and system development
 - 🌱 I’m currently learning webdevlopment with php, MySQL, JavaScript, WordPress, Drupal and system development with C# and much more
 - 💞️ I’m looking to collaborate on: Open to suggestions
