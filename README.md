@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenschr69 - Jens Christensen
-- 👀 I’m interested in web- and system development currently studying Front End Web Development at Grit Academy, Malmö, Sweden.
+- 👀 I’m interested in web- and system development currently studying Front End Web Development at <a href="https://www.gritacademy.se">Grit Academy, Malmö, Sweden.</a>.
 - 🌱 I’m currently learning webdevlopment with php, MySQL, JavaScript, WordPress and Drupal.
 - 💞️ I’m currently looking for a trainee / junior role from August 2024 prefarably located in the Malmö/Skåne area or central Copenhagen.
 - I would especially like to learn more about webbdevelopment in general frontend and/or backend role within html, css and php programming/styling for WordPress, Drupal, Magento and other things you might need.
