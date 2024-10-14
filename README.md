@@ -25,4 +25,4 @@ Matomo and/or Piwick Pro.
 
 CONTACT INFORMATION
 - 📫 Feel free to contact me by e-mail jcc@jenschrchristensen.com or by phone
-- +46 70 486 2531
+- tel: +46 70 486 2531
