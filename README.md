@@ -1,4 +1,4 @@
-<h1> Does your company need an extra hand from a junior webdeveloper/frontend webdeveloper? Then, continue to read... </h1>
+<h1> Does your company need an extra hand from a junior webdeveloper/frontend webdeveloper?</h1>
 
 ABOUT ME
 - 👋 Hi, I’m @jenschr69 - Jens Christensen - Open to work from December 2024 - Get in touch
