@@ -6,7 +6,7 @@ ABOUT ME
 - Scandinavian living in Malmö, Sweden.
 - <a href="https://www.linkedin.com/in/jenschrchristensen/">LinkedIN Profile</a>
 
-WEB DEVELOPMENT PORTIFOLIO
+WEB DEVELOPMENT PORTFOLIO
 - <a href="https://github.com/jenschr69/jenschr69/">GitHub Profile Jens Chr. Christensen (this page)</a> <br>
 - <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop (WordPress w/WooCommerce)</a> <br>  
 - ⚡ Fun fact: I have written the "a href=" html tag - tag over 120.000 times during the last 25 years
