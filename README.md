@@ -7,8 +7,8 @@ ABOUT ME
 - <a href="https://www.linkedin.com/in/jenschrchristensen/">LinkedIN Profile</a>
 
 WEB DEVELOPMENT PORTIFOLIO
-- <a href="https://github.com/jenschr69/jenschr69/">GitHub Profile Jens Chr. Christensen (this page)</a>
-- <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop (WordPress w/WooCommerce)</a>
+- <a href="https://github.com/jenschr69/jenschr69/">GitHub Profile Jens Chr. Christensen (this page)</a> <br>
+- <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop (WordPress w/WooCommerce)</a> <br>  
 ⚡ Fun fact: I have written the "a href=" - tag over 100.000 times
 
 WHAT I DO
