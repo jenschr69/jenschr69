@@ -25,6 +25,3 @@ Matomo and/or Piwick Pro.
 
 CONTACT INFORMATION
 - 📫 Feel free to contact me by e-mail jcc@jenschrchristensen.com
-
-
-
