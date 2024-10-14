@@ -24,5 +24,7 @@ Matomo and/or Piwick Pro.
 - There is a special place in my heart for martech and analytics in combination with system and web development.
 
 CONTACT INFORMATION
-- 📫 Feel free to contact me by e-mail jcc@jenschrchristensen.com or by phone
-- tel: +46 70 486 2531
+- 📫 Feel free to contact me by e-mail gh@jenschrchristensen.com 
+- Mobile Sweden: +46 70 486 2531
+- Mobile Denmark: +45 71 63 22 25
+- Mobile Norway: +47 46 39 28 12
