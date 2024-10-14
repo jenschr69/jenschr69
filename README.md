@@ -24,4 +24,5 @@ Matomo and/or Piwick Pro.
 - There is a special place in my heart for martech and analytics in combination with system and web development.
 
 CONTACT INFORMATION
-- 📫 Feel free to contact me by e-mail jcc@jenschrchristensen.com
+- 📫 Feel free to contact me by e-mail jcc@jenschrchristensen.com or by phone
+- +46 70 486 2531
