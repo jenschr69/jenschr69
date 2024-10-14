@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jenschr69 - Jens Christensen - I love to build stuff and to se things grow and evolve. Since I'm a bad carpenter, I build with 0 and 1's instead.
+- 👋 Hi, I’m @jenschr69 - Jens Christensen - Open to work from December 2024 - Get in touch
+- I love to build stuff and to se things grow and evolve. Since I'm a bad carpenter, I build with 0 and 1's instead.
 - Does your company need an extra hand from a junior webdeveloper/frontend webdeveloper? Then, continue to read...
 - 👀 I’m interested in web- and system development currently studying Front End Web Development at <a href="https://www.gritacademy.se">Grit Academy, Malmö, Sweden.</a>.
 - 🌱 I’m currently focusing on learning front end webdevlopment with html, css, JavaScript, JS libraries as jQuery, TypeScript, React, Node.js, MySQL and NonSQL databases as Firebase, UX and design, Version Control and much more. You can read more about the education at <a href="https://www.gritacademy.se/front-end-webbutvecklare/">GritAcademy.se Front End Web Developer (in swedish)</a> .
