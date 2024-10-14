@@ -9,7 +9,7 @@ ABOUT ME
 WEB DEVELOPMENT PORTIFOLIO
 - <a href="https://github.com/jenschr69/jenschr69/">GitHub Profile Jens Chr. Christensen (this page)</a> <br>
 - <a href="https://www.jenschrchristensen.com/cvshop">My Online CV shop (WordPress w/WooCommerce)</a> <br>  
-⚡ Fun fact: I have written the "a href=" - tag over 100.000 times
+- ⚡ Fun fact: I have written the "a href=" - tag over 100.000 times
 
 WHAT I DO
 - 👀 I’m interested in web- and system development currently studying Front End Web Development at <a href="https://www.gritacademy.se">Grit Academy, Malmö, Sweden.</a>.
