@@ -1,7 +1,7 @@
 <h1> Does your company need an extra hand from a junior frontend webdeveloper and technical digital analyst?</h1>
 
 ABOUT ME
-- 👋 Hi, I’m @jenschr69 - Jens Christensen - Open to work from December 2024 - Get in touch
+- 👋 Hi, I’m @jenschr69 - Jens Christensen - Open to work - Get in touch
 - I love to build stuff and to se things grow and evolve. Since I'm a bad carpenter, I build with 0 and 1's instead.
 - Scandinavian living in Malmö, Sweden.
 - <a href="https://www.linkedin.com/in/jenschrchristensen/">LinkedIN Profile</a>
